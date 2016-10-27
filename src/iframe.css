@@ -1,0 +1,20 @@
+.imageBanner {
+  display: block;
+  text-align: center;
+}
+
+.imageBanner img {
+  width: 7vw;
+  height: auto;
+  padding: 5px;
+}
+
+.imageBanner > div {
+    text-align: center;
+    width: 128px;
+    display: inline-block;
+}
+.imageBanner p {
+    margin: 0;
+    font-family: Arial;
+}
